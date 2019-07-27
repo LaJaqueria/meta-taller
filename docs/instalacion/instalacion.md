@@ -1,13 +1,16 @@
 # Instalación
 
-Antes de nada necesitas tener una cuenta en [Github](https://github.com/) o [Gitlab](https://gitlab.com/). Si no sabes que son, ni sus diferencias, te recomendamos que uses Github:
+Antes de nada necesitas tener una cuenta en [Github](https://github.com/) o [Gitlab](https://gitlab.com/).
 
 * Son plataformas web donde puedes alojar repositorios y poder colaborar con más personas.
 * Un repositorio no es más que un conjunto de carpetas y/o documentos, que pueden ser un programa informático, un libro, o lo que sea.
 * Esta web que lees está en un repositorio de hecho -> [meta-taller](https://github.com/LaJaqueria/meta-taller/)
 * Resumiendolo mucho, son como un Facebook de proyectos.
-* Github es privado, pero es donde están la mayoría de proyectos y personas -> Mejor para empezar.
-* Gitlab es abierto, pero está más enfocado a un ámbito profesional -> Mejor para expertos.
+
+!!! tip "Consejo"
+    Si no sabes que son, ni sus diferencias, te recomendamos que uses Github.  
+    Github es privado, pero es donde están la mayoría de proyectos y personas -> Mejor para empezar.  
+    Gitlab es abierto, pero está más enfocado a un ámbito profesional -> Mejor para expertos.
 
 Una vez tengas tu cuenta, para poder instalar y usar la plantilla primero necesitas instalar en tu equipo:
 
