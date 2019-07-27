@@ -2,7 +2,9 @@
 
 [![Foto de perfil](img/logo-jaqueria.jpg)](https://lajaqueria.org/)
 
-**Autor**: [La Jaquería](https://lajaqueria.org/)
+**Autor**:
+
+[La Jaquería](https://lajaqueria.org/)
 
 **Bio**:
 
