@@ -1,5 +1,7 @@
 # Publica tu conocimiento
 
+[![Build Status](https://travis-ci.org/LaJaqueria/meta-taller.svg?branch=master)](https://travis-ci.org/LaJaqueria/meta-taller)
+
 TODO: Aquí debe de ir toda la **Descripción del taller**
 
 Esta es la lista de tareas que tienes que hacer para poner a punto este taller ¡Ánimo!
