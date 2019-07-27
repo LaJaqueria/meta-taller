@@ -1,6 +1,6 @@
 # Instalación
 
-Antes de nada necesitas tener una cuenta en [Github](https://github.com/) o [Gitlab](https://gitlab.com/). Si no sabes que son ni sus diferencias, te recomendamos que lo hagas en Github:
+Antes de nada necesitas tener una cuenta en [Github](https://github.com/) o [Gitlab](https://gitlab.com/). Si no sabes que son, ni sus diferencias, te recomendamos que uses Github:
 
 * Son plataformas web donde puedes alojar repositorios y poder colaborar con más personas.
 * Un repositorio no es más que un conjunto de carpetas y/o documentos, que pueden ser un programa informático, un libro, o lo que sea.
