@@ -8,7 +8,7 @@
 
 **Bio**:
 
-La Jaquería es un [hackspace](https://es.wikipedia.org/wiki/Hacklab) / makespace que se encuentra en Almería. Es decir, un espacio físico donde juntarnos para poder aprender colectivamente, tanto las unas de las otras, como juntos. Nos gusta la tecnología y creemos que es una herramienta importante para poder mejorar nuestro mundo. Pero para nosotros lo importante es el factor humano. Por eso, viéndola desde las artes y las humanidades, podemos usarla para poder mejorar nuestro mundo. Eso significa hackear, mejorar.
+La Jaquería es un [hackspace](https://es.wikipedia.org/wiki/Hacklab) / makespace que se encuentra en Almería. Es decir, un espacio físico donde juntarnos para poder aprender colectivamente, tanto las unas de las otras, como juntas. Nos gusta la tecnología y creemos que es una herramienta importante para poder mejorar nuestro mundo. Pero para nosotras lo importante es el factor humano. Por eso, viéndola desde las artes y las humanidades, podemos usarla para poder mejorar nuestro mundo. Eso significa hackear, mejorar.
 
 **Motivaciones**:
 
