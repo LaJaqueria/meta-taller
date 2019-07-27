@@ -14,7 +14,7 @@ La Jaquería es un [hackspace](https://es.wikipedia.org/wiki/Hacklab) / makespac
 
 Desde La Jaquería queremos no dejes pasar la oportunidad de que compartas con el mundo un pedacito de ti. Da igual si sabes programar o no, incluso si eres un zote con la tecnología. Este recurso que te hemos preparado está pensado para ser usado por cualquier persona. Podrás tener una web, con secciones ordenadas, donde tu solo te preocupes en darle contenido y nada más.
 
-Recuerda el dicho:
+Recuerda lo que dijo Confucio:
 
-> Me lo contaron y lo olvidé; lo vi y lo entendí; lo hice y lo aprendí
-> Confucio
+!!! quote "Confucio"
+    *Me lo contaron y lo olvidé; lo vi y lo entendí; lo hice y lo aprendí.*
