@@ -1,19 +1,27 @@
-# Instalación en Linux
+# Instalacion en Linux
+
+Esta es la puesta a punto que vas a necesitar para usar la plantilla en tu ordenador con Linux.
+
+## Instalar control de versiones GIT
 
 TODO:
 
-## Ubuntu - Debian
+## Instalar Python 3
 
 TODO:
 
-## Red Hat
+## Instalar PIP
 
 TODO:
 
-## Arch - Manjaro
+## Instalar Pipenv
 
 TODO:
 
-## Raspberry Pi
+## Instalar Visual Studio Code
+
+TODO:
+
+## Instalar extensiones de VSCode
 
 TODO:
