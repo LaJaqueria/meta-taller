@@ -1,26 +1,26 @@
 # 1. Información del Taller
-site_name: Taller de X # TODO:
-site_description: La Jaqueria - Taller de X # TODO:
-site_author: Cristóbal Contreras Rubio # TODO:
-site_url: https://crisconru.github.io/ # TODO:
+site_name: Publica tu conocimiento
+site_description: La Jaqueria - Publica tu conocimiento.
+site_author: La Jaquería
+site_url: https://LaJaqueria.github.io/meta-taller/
 
 # 2. Repositorio
-repo_name: crisconru/plantilla-taller # TODO:
-repo_url: https://github.com/crisconru/plantilla-taller # TODO:
+repo_name: LaJaqueria/meta-taller
+repo_url: https://github.com/LaJaqueria/meta-taller
 edit_uri: ""
 
 # 3. Copyright
-copyright: Copyright &copy; 2019 - 2020 Cristóbal Contreras # TODO:
+copyright: Copyright &copy; 2019 La Jaquería
 
 # 4. RRSS
 extra:
   social:
     - type: github
-      link: https://github.com/LaJaqueria # TODO:
+      link: https://github.com/LaJaqueria
     - type: twitter
-      link: https://twitter.com/lajaqueria # TODO:
+      link: https://twitter.com/lajaqueria
     - type: linkedin
-      link: https://www.linkedin.com/company/lajaqueria/ # TODO:
+      link: https://www.linkedin.com/company/lajaqueria/
 
 # 5. Navegación
 nav:
@@ -34,6 +34,14 @@ nav:
     - Linux: instalacion/linux.md # TODO:
   # Aquí seguirían tus secciones
   # TODO:
+  - Sitio web:
+    - Despliegue: despliegue/despliegue.md
+    - Read the Docs: despliegue/readthedocs.md
+    - Github:
+      - Github: despliegue/github/github.md
+      - Automatizado: despliegue/github/automatizado.md
+      - Manual: despliegue/github/manual.md
+    - Gitlab: despliegue/gitlab.md
   # Por último, comenta estas 4 líneas
   - Ayuda para escribir: # TODO:
     - Notas: ayuda/ayuda.md # TODO:
