@@ -1,6 +1,6 @@
 # Autor / autores
 
-[![Foto de perfil](img/logo-jaqueria.jpg](https://lajaqueria.org/)
+[![Foto de perfil](img/logo-jaqueria.jpg)](https://lajaqueria.org/)
 
 **Autor**: [La Jaquería](https://lajaqueria.org/)
 
