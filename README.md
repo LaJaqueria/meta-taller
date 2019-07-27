@@ -1,5 +1,7 @@
 # Meta Taller
 
+[![Build Status](https://travis-ci.org/LaJaqueria/meta-taller.svg?branch=master)](https://travis-ci.org/LaJaqueria/meta-taller)
+
 Este repositorio contiene un tutorial donde se explica como poder usar la plantilla para poder compartir cursos / talleres / lo-que-sea, elaborada por [La Jaquería](lajaqueria.org).
 
 La plantilla la tienes aquí -> [plantilla-taller](https://github.com/LaJaqueria/plantilla-taller)
