@@ -12,13 +12,15 @@ Antes de nada necesitas tener una cuenta en [Github](https://github.com/) o [Git
     Github es privado, pero es donde están la mayoría de proyectos y personas -> Mejor para empezar.  
     Gitlab es abierto, pero está más enfocado a un ámbito profesional -> Mejor para expertos.
 
-Una vez tengas tu cuenta, para poder instalar y usar la plantilla primero necesitas instalar en tu equipo:
+Una vez tengas tu cuenta, pon tu foto, tus redes sociales y demás datos de contacto.
 
-1. Control de versiones [Git](https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Acerca-del-Control-de-Versiones).
-2. Intérprete de [Python 3](https://python.org/).
-3. Gestor de paquetes de Python, [PIP](https://es.wikipedia.org/wiki/Pip_(administrador_de_paquetes)).
-4. Biblioteca [Pipenv](https://pipenv-es.readthedocs.io/es/latest/).
-5. Editor de texto [Visual Studio Code](https://code.visualstudio.com/) junto con un par de extensiones.
+Para poder instalar y usar la plantilla primero necesitas instalar en tu equipo las siguientes cosas (sigue las instrucciones de los enlaces):
+
+1. Control de versiones Git -> TODO: enlace de instalacion del taller de git
+2. Intérprete de Python 3 -> TODO: enlace de instalacion del taller de Python
+3. Gestor de paquetes de Python, PIP -> TODO: enlace de instalacion del taller de Python
+4. Biblioteca Pipenv -> TODO: enlace de instalacion del taller de Python
+5. Editor de texto Visual Studio Code -> TODO: enlace de instalación del taller de git.
 
 Ve a la sección del sistema operativo que use tu ordenador y empieza ;-).
 
