@@ -19,11 +19,15 @@ Para poder instalar y usar la plantilla primero necesitas instalar en tu equipo 
 1. Control de versiones Git -> TODO: enlace de instalacion del taller de git
 2. Intérprete de Python 3 -> TODO: enlace de instalacion del taller de Python
 3. Gestor de paquetes de Python, PIP -> TODO: enlace de instalacion del taller de Python
-4. Biblioteca Pipenv -> TODO: enlace de instalacion del taller de Python
-5. Editor de texto Visual Studio Code -> TODO: enlace de instalación del taller de git.
+4. Editor de texto Visual Studio Code
+    1. Instalar VSCODE -> TODO: enlace de instalación del taller de git.
+    2. Ver como funciona -> TODO: enlace de uso de taller de git.
+    3. Instalar extensiones recomendadas-> TODO: enlace de instalacion extensiones del taller de git.
+        1. [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) (de Yu Zhang).
+        2. [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) (de David Anson).
+        3. [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) (de Microsoft).
+        4. [TODO highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight) (de Wayou Liu).
+        5. [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree) (de Gruntfuggly).
+5. Biblioteca Pipenv -> TODO: enlace de instalacion del taller de Python
 
-Ve a la sección del sistema operativo que use tu ordenador y empieza ;-).
-
-* [Instalación en Windows](windows.md).
-* [Instalación en MacOS](macos.md).
-* [Instalación en Linux](linux.md).
+Vale, ya tienes todo lo necesario en tu ordenador para empezar a usar la plantilla. Ahora solo te queda ponerla a punto.

@@ -27,13 +27,13 @@ nav:
   # Modelo para empezar: Intro, Info del autor y la instalación
   - Introducción: index.md # TODO:
   - Autor / Autores: about.md # TODO:
-  - Instalación:
-    - Instalación: instalacion/instalacion.md # TODO:
-    - Windows: instalacion/windows.md # TODO:
-    - Mac OS: instalacion/macos.md # TODO:
-    - Linux: instalacion/linux.md # TODO:
+  - Instalación : instalacion.md # TODO:
   # Aquí seguirían tus secciones
   # TODO:
+  - Puesta a punto:
+    - Crear repositorio: puestaapunto/repositorio.md # TODO:
+    - Instalar plantlla: puestaapunto/plantilla.md # TODO:
+    - Subir primeros cambios: puestaapunto/push.md # TODO:
   - Sitio web:
     - Despliegue: despliegue/despliegue.md
     - Read the Docs: despliegue/readthedocs.md
